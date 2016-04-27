@@ -1,2 +1,2 @@
 # Online Fraud Detection - Expert System
-Online Fraud Detection - Expert System
+Java GUI that will help you determine fraud online
